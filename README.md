@@ -1,19 +1,21 @@
+# HydroGraphy30
 Hydrography30_for_review
 
-The main code is in main.py, and it consists of six parts:
 
-Data preprocessing
+The main code is in `main.py`, and it consists of six parts:
 
-Calculating the initial depression area (CDD)
+1. Data preprocessing
 
-Calculating the geometric properties of the CDD
+2. Calculating the initial depression area (CDD)
 
-Correcting the flow direction
+3. Calculating the geometric properties of the CDD
 
-Calculating the runoff accumulation, endorheic basin, and river network
+4. Correcting the flow direction
 
-River verification and watershed verification
+5. Calculating the runoff accumulation, endorheic basin, and river network
 
-The plotting code is located in draw.py, and running it will generate the corresponding subplots.
+6. River verification and watershed verification
+
+The plotting code is located in `draw.py`, and running it will generate the corresponding subplots.
 
 Please refer to the function comments for the specific functionality of the code.
